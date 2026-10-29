@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fastbrain"
+version = "1.0.0"
+description = "FastBrain-9B: Non-Autoregressive System-1 Structured Decision Model"
+readme = "README.md"
+license = {text = "Apache-2.0"}
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.4.0",
+    "transformers>=5.10.0",
+    "safetensors>=0.4.5",
+    "huggingface_hub>=0.26.0",
+    "accelerate>=1.0.0",
+]
+
+[tool.setuptools.packages.find]
+include = ["fastbrain*"]
