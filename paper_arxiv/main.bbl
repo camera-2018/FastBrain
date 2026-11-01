@@ -1,0 +1,204 @@
+\begin{thebibliography}{24}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Belabed(2026)]{anisselbd2026phishnchips}
+Anisse Belabed.
+\newblock {PhishNChips}: Multi-probe phishing and email security decision
+  dataset.
+\newblock \url{https://huggingface.co/datasets/anisselbd/phish-n-chips}, 2026.
+
+\bibitem[Brier(1950)]{brier1950verification}
+Glenn~W Brier.
+\newblock Verification of forecasts expressed in terms of probability.
+\newblock \emph{Monthly Weather Review}, 78\penalty0 (1):\penalty0 1--3, 1950.
+\newblock \doi{10.1175/1520-0493(1950)078<0001:VOFEIT>2.0.CO;2}.
+
+\bibitem[Casanueva et~al.(2020)Casanueva, Tem{\v{c}}inas, Gerz, Henderson, and
+  Vuli{\'c}]{casanueva2020banking77}
+I{\~n}igo Casanueva, Tadas Tem{\v{c}}inas, Daniela Gerz, Matthew Henderson, and
+  Ivan Vuli{\'c}.
+\newblock Efficient intent detection with dual sentence encoders.
+\newblock In \emph{Proceedings of the 2nd Workshop on Natural Language
+  Processing for Conversational AI (ACL)}, pages 38--45, 2020.
+\newblock \doi{10.18653/v1/2020.nlp4convai-1.5}.
+\newblock URL \url{https://arxiv.org/abs/2003.04807}.
+
+\bibitem[{Cloudflare AI Team}(2026)]{cloudflare2026clef}
+{Cloudflare AI Team}.
+\newblock Introducing {Clef}: Single-pass structured decision models for
+  {System-1} inference.
+\newblock \url{https://huggingface.co/Cloudflare/clef-flash}, 2026.
+
+\bibitem[Dao et~al.(2022)Dao, Fu, Ermon, Rudra, and
+  R{\'e}]{dao2022flashattention}
+Tri Dao, Dan Fu, Stefano Ermon, Atri Rudra, and Christopher R{\'e}.
+\newblock {FlashAttention}: Fast and memory-efficient exact attention with
+  {IO}-awareness.
+\newblock In \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, volume~35, pages 16344--16359, 2022.
+
+\bibitem[Elkan(2001)]{elkan2001foundations}
+Charles Elkan.
+\newblock The foundations of cost-sensitive learning.
+\newblock In \emph{Proceedings of the Seventeenth International Joint
+  Conference on Artificial Intelligence (IJCAI)}, pages 973--978, 2001.
+
+\bibitem[Guo et~al.(2017)Guo, Pleiss, Sun, and Weinberger]{guo2017calibration}
+Chuan Guo, Geoff Pleiss, Yu~Sun, and Kilian~Q Weinberger.
+\newblock On calibration of modern neural networks.
+\newblock In \emph{International Conference on Machine Learning (ICML)}, pages
+  1321--1330, 2017.
+\newblock URL \url{https://arxiv.org/abs/1706.04599}.
+
+\bibitem[Hinton et~al.(2015)Hinton, Vinyals, and Dean]{hinton2015distilling}
+Geoffrey Hinton, Oriol Vinyals, and Jeff Dean.
+\newblock Distilling the knowledge in a neural network.
+\newblock \emph{arXiv preprint arXiv:1503.02531}, 2015.
+\newblock URL \url{https://arxiv.org/abs/1503.02531}.
+
+\bibitem[Hu et~al.(2022)Hu, Shen, Wallis, Allen-Zhu, Li, Wang, Wang, and
+  Chen]{hu2022lora}
+Edward~J Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean
+  Wang, Lu~Wang, and Weizhu Chen.
+\newblock {LoRA}: Low-rank adaptation of large language models.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2022.
+\newblock URL \url{https://arxiv.org/abs/2106.09685}.
+
+\bibitem[Huang et~al.(2024)Huang, Liu, Lin, Pang, Du, and
+  Lin]{huang2024lorahub}
+Chengsong Huang, Qian Liu, Bill~Yuchen Lin, Tianyu Pang, Chao Du, and Min Lin.
+\newblock {LoraHub}: Efficient cross-task generalization via dynamic {LoRA}
+  composition.
+\newblock In \emph{Conference on Language Modeling (COLM)}, 2024.
+\newblock URL \url{https://arxiv.org/abs/2307.13269}.
+
+\bibitem[Ilharco et~al.(2023)Ilharco, Ribeiro, Wortsman, Gururangan, Schmidt,
+  Hajishirzi, and Farhadi]{ilharco2023taskarithmetic}
+Gabriel Ilharco, Marco~Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan,
+  Ludwig Schmidt, Hannaneh Hajishirzi, and Ali Farhadi.
+\newblock Editing models with task arithmetic.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2023.
+\newblock URL \url{https://arxiv.org/abs/2212.04089}.
+
+\bibitem[Larson et~al.(2019)Larson, Mahendran, Peper, Clarke, Lee, Hill,
+  Kummerfeld, Leach, Laurenzano, Tang, and Mars]{larson2019clinc150}
+Stefan Larson, Anish Mahendran, Joseph~J Peper, Christopher Clarke, Andrew Lee,
+  Parker Hill, Jonathan~K Kummerfeld, Kevin Leach, Michael~A Laurenzano,
+  Lingjia Tang, and Jason Mars.
+\newblock An evaluation dataset for intent classification and out-of-scope
+  prediction.
+\newblock In \emph{Proceedings of the 2019 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP-IJCNLP)}, pages 1311--1316, 2019.
+\newblock \doi{10.18653/v1/D19-1131}.
+\newblock URL \url{https://arxiv.org/abs/1909.02027}.
+
+\bibitem[Li et~al.(2023)Li, Zhao, Yu, Song, Li, Yu, Li, Huang, and
+  Li]{li2023apibank}
+Minghao Li, Yingxiu Zhao, Bowen Yu, Feifan Song, Hangyu Li, Haiyang Yu, Zhoujun
+  Li, Fei Huang, and Yongbin Li.
+\newblock {API-Bank}: A comprehensive benchmark for tool-augmented {LLMs}.
+\newblock In \emph{Proceedings of the 2023 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, 2023.
+\newblock URL \url{https://arxiv.org/abs/2304.08244}.
+
+\bibitem[Passos and {Cloudflare AI}(2026)]{apolinario2026decisionindex}
+Apolin{\'a}rio Passos and {Cloudflare AI}.
+\newblock {Decision Index}: A benchmark suite for single-pass structured
+  decision models (v0.2.1).
+\newblock \url{https://github.com/apolinario/decision-index}, 2026.
+
+\bibitem[Patil et~al.(2024)Patil, Zhang, Wang, and Gonzalez]{patil2024gorilla}
+Shishir~G Patil, Tianjun Zhang, Xin Wang, and Joseph~E Gonzalez.
+\newblock {Gorilla}: Large language model connected with massive {APIs}.
+\newblock In \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, 2024.
+\newblock URL \url{https://arxiv.org/abs/2305.15334}.
+
+\bibitem[Reddy et~al.(2022)Reddy, M{\`a}rquez, Valero, Rao, Zaragoza,
+  Bandyopadhyay, Biswas, Xing, and Subbian]{reddy2022esci}
+Chandan~K Reddy, Llu{\'\i}s M{\`a}rquez, Fran Valero, Nikhil Rao, Hugo
+  Zaragoza, Sambaran Bandyopadhyay, Arnab Biswas, Anlu Xing, and Karthik
+  Subbian.
+\newblock Shopping queries dataset: A large-scale {ESCI} benchmark for
+  improving product search.
+\newblock \emph{arXiv preprint arXiv:2206.06588}, 2022.
+\newblock URL \url{https://arxiv.org/abs/2206.06588}.
+
+\bibitem[Ross et~al.(2025)Ross, Mahabaleshwarkar, and
+  Suhara]{ross2025when2call}
+Hayley Ross, Ameya~Sunil Mahabaleshwarkar, and Yoshi Suhara.
+\newblock {When2Call}: When (not) to call tools.
+\newblock In \emph{Proceedings of the 2025 Conference of the Nations of the
+  Americas Chapter of the Association for Computational Linguistics (NAACL)},
+  2025.
+\newblock URL \url{https://arxiv.org/abs/2504.18851}.
+
+\bibitem[Shi et~al.(2025)Shi, Wang, Yan, Ren, Wang, Yin, and
+  Ren]{shi2025toolret}
+Zhengliang Shi, Yuhan Wang, Lingyong Yan, Pengjie Ren, Shuaiqiang Wang, Dawei
+  Yin, and Zhaochun Ren.
+\newblock Retrieval models aren't tool-savvy: Benchmarking tool retrieval for
+  large language models.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  ACL 2025}, pages 24597--24624, 2025.
+\newblock URL \url{https://arxiv.org/abs/2503.01763}.
+
+\bibitem[Su et~al.(2025)Su, Yen, Xia, Shi, Muennighoff, Wang, Liu, Shi, Siegel,
+  Tang, et~al.]{su2025bright}
+Hongjin Su, Howard Yen, Mengzhou Xia, Weijia Shi, Niklas Muennighoff, Han-yu
+  Wang, Haisu Liu, Quan Shi, Zachary~S Siegel, Michael Tang, et~al.
+\newblock {BRIGHT}: A realistic and challenging benchmark for
+  reasoning-intensive retrieval.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2025.
+\newblock URL \url{https://arxiv.org/abs/2407.12883}.
+
+\bibitem[Wortsman et~al.(2022)Wortsman, Ilharco, Gadre, Roelofs, Gontijo-Lopes,
+  Morcos, Namkoong, Farhadi, Carmon, Kornblith, and
+  Schmidt]{wortsman2022modelsoups}
+Mitchell Wortsman, Gabriel Ilharco, Samir~Ya Gadre, Rebecca Roelofs, Raphael
+  Gontijo-Lopes, Ari~S Morcos, Hongseok Namkoong, Ali Farhadi, Yair Carmon,
+  Simon Kornblith, and Ludwig Schmidt.
+\newblock {Model Soups}: Averaging weights of multiple fine-tuned models
+  improves accuracy without increasing inference time.
+\newblock In \emph{International Conference on Machine Learning (ICML)}, pages
+  23965--23998, 2022.
+\newblock URL \url{https://arxiv.org/abs/2203.05482}.
+
+\bibitem[Yadav et~al.(2023)Yadav, Tam, Choshen, Raffel, and
+  Bansal]{yadav2023ties}
+Prateek Yadav, Derek Tam, Leshem Choshen, Colin~A Raffel, and Mohit Bansal.
+\newblock {TIES-Merging}: Resolving interference when merging models.
+\newblock In \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, 2023.
+\newblock URL \url{https://arxiv.org/abs/2306.01708}.
+
+\bibitem[Yang et~al.(2024)Yang, Wang, Zhang, Shen, and Kim]{yang2024deltanet}
+Songlin Yang, Bailin Wang, Yu~Zhang, Yikang Shen, and Yoon Kim.
+\newblock Parallelizing linear transformers with the delta rule over sequence
+  length.
+\newblock In \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, 2024.
+\newblock URL \url{https://arxiv.org/abs/2406.06484}.
+
+\bibitem[Yang et~al.(2025)Yang, Kautz, and Hatamizadeh]{yang2025gateddeltanet}
+Songlin Yang, Jan Kautz, and Ali Hatamizadeh.
+\newblock Gated delta networks: Improving {Mamba2} with delta rule.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2025.
+\newblock URL \url{https://arxiv.org/abs/2412.06464}.
+
+\bibitem[Yu et~al.(2024)Yu, Yu, Yu, Huang, and Li]{yu2024dare}
+Le~Yu, Bowen Yu, Haiyang Yu, Fei Huang, and Yongbin Li.
+\newblock Language models are {Super Mario}: Absorbing abilities from
+  homologous models as a free lunch.
+\newblock In \emph{International Conference on Machine Learning (ICML)}, 2024.
+\newblock URL \url{https://arxiv.org/abs/2311.03099}.
+
+\end{thebibliography}
